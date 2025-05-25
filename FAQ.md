@@ -564,3 +564,7 @@ const cancelHttp = window.lx.request(url, options, callback)
 - `window.lx.utils.crypto.rsaEncrypt`：RSA加密 `rsaEncrypt(buffer, key)`
 
 目前仅提供以上工具方法，如果需要其他方法可以开issue讨论。 -->
+
+
+
+https://github.com/lyswhut/lx-music-desktop/issues/2263
